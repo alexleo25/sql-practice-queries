@@ -1,0 +1,11 @@
+employee_id,first_name,last_name,department_id,salary,joining_date,manager_id
+101,Alice,Johnson,1,75000.00,2022-01-15,NULL
+102,Bob,Smith,1,60000.00,2022-03-10,101
+103,Charlie,Lee,2,55000.00,2023-02-01,NULL
+104,David,Kim,2,50000.00,2023-04-05,103
+105,Eva,Martinez,3,45000.00,2023-01-20,NULL
+106,Frank,Wright,3,42000.00,2023-05-15,105
+107,Grace,Hall,1,67000.00,2024-01-11,101
+108,Hannah,Davis,4,47000.00,2022-11-12,NULL
+109,Ian,Clark,1,62000.00,2023-07-10,101
+110,Jane,Lopez,4,46000.00,2024-02-20,108
